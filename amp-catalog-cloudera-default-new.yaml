@@ -16,7 +16,7 @@ entries:
         <div style="margin-top:10px">This AMP includes or otherwise depends on certain third party software packages.  Information about such third party software packages are made available in the notice file associated with this AMP.  By configuring and launching this AMP, you will cause such third party software packages to be downloaded and installed into your environment, in some instances, from third parties' websites.  For each third party software package, please see the notice file and the applicable websites for more information, including the applicable license terms.</div>
         <div style="margin-top:10px">If you do not wish to download and install the third party software packages, do not configure, launch or otherwise use this AMP.  By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.</div>
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/intelligent-qa-chatbot-with-nifi-pinecone-and-llama2.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/intelligent-qa-chatbot-with-nifi-pinecone-and-llama2.png?raw=true
     tags:
       - Chatbot
       - Pinecone
@@ -40,7 +40,7 @@ entries:
         This AMP demonstrates how to integrate text generation models from the Amazon Bedrock service for text usecases like summarization.
   
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/ai_text_summarization_with_amazon_bedrock.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/ai_text_summarization_with_amazon_bedrock.png?raw=true
     tags:
       - Bedrock
       - LLM
@@ -80,7 +80,7 @@ entries:
         <div style="margin-top:10px">If you do not wish to download and install the model and the datasets, click “cancel” below.  By clicking “configure” below, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the model and the datasets.</div>
 
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/finetune_foundation_model_multiple_tasks.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/finetune_foundation_model_multiple_tasks.png?raw=true
     tags:
       - Huggingface
       - QLoRA
@@ -107,7 +107,7 @@ entries:
         generation with factual responses.        
 
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/llm_chatbot_augmented_with_enterprise_data.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/llm_chatbot_augmented_with_enterprise_data.png?raw=true
     tags:
       - Chatbot
       - LLM
@@ -132,7 +132,7 @@ entries:
       regression and LIME models are deployed using CML's real-time model deployment capability and interact with a 
       basic Flask-based web application.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/churn-prediction.jpg
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/churn-prediction.jpg?raw=true
     tags:
       - Churn Prediction
       - Logistic Regression
@@ -152,7 +152,7 @@ entries:
       launches an interactive visualization for exploring the quality of
       representations extracted using multiple model architectures.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/image-analysis.jpg
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/image-analysis.jpg?raw=true
     tags:
       - Computer Vision
       - Image Analysis
@@ -170,7 +170,7 @@ entries:
       it includes two baselines (One Class SVM, PCA) and provides a frontend
       interface for exploring model results.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/anomaly-detection.jpg
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/anomaly-detection.jpg?raw=true
     tags:
       - Anomaly Detection
       - Tensorflow
@@ -188,7 +188,7 @@ entries:
       data. The primary output of this repository is a small application exposing a probablistic 
       forecast and interface for asking a probabilistic questions against it.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/structural-time-series.jpg
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/structural-time-series.jpg?raw=true
     tags:
       - Time Series
       - Prophet
@@ -203,7 +203,7 @@ entries:
       This project is a single notebook that demonstrates extracting named entities from Reuters news headlines with spaCy. 
       It provides a few example downstream use cases.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/spacy-entity-extraction.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/spacy-entity-extraction.png?raw=true
     tags:
       - SpaCy
       - NLP
@@ -220,7 +220,7 @@ entries:
       the types of models that make QA systems possible. Finally, users can learn and visualize the data structures required for training 
       and evaluating those models.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/question-answering.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/question-answering.png?raw=true
     tags:
       - Automated Question Answering
       - Extractive Question Answering
@@ -238,7 +238,7 @@ entries:
       Decision Tree, Random Forest, Gradient Boosted Tree, and a Multilayer Perceptron. It also discusses best practices for debugging 
       explanations as well as limitations of LIME and SHAP.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/explainability-lime-shap.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/explainability-lime-shap.png?raw=true
     tags:
       - Interpretability
       - Explainability
@@ -255,7 +255,7 @@ entries:
       needed to train a model, saving time and money while obtaining comparable performance to models trained with much more data.This application 
       demonstrates the active learning workflow in an interactive experience.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/active-learning.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/active-learning.png?raw=true
     tags:
       - Active Learning
       - Learning with Limited Labeled Data
@@ -270,7 +270,7 @@ entries:
       examples exist, or even when there are no training examples at all! The approach relies on embedding text using word embeddings and 
       sentence embeddings with state-of-the-art Transformer models.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/fewshot-text-classification.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/fewshot-text-classification.png?raw=true
     tags:
       - NLP
       - Few-Shot Learning
@@ -289,7 +289,7 @@ entries:
       upon which an XGBoost classification model is trained to predict flight cancellations. Additionally, the project deploys a hosted model 
       and front-end application to allow users to interact with the trained model.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/canceled-flight-prediction.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/canceled-flight-prediction.png?raw=true
     tags:
       - Binary Classification
       - XGBoost
@@ -305,7 +305,7 @@ entries:
       This project demonstrates running a small Streamlit application inside CML. It does no machine learning, and simply illustrates the small
       amount of wiring necessary to create a CML Application using Streamlit.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/streamlit.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/streamlit.png?raw=true
     tags:
       - Streamlit
       - Applications
@@ -321,7 +321,7 @@ entries:
       we'll see how a pre-trained RetinaNet model processes an image to quickly and accurately detect objects while also exploring fundamental object 
       detection concepts along the way.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/object-detection-inference.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/object-detection-inference.png?raw=true
     tags:
       - Computer Vision
       - Object Detection
@@ -337,7 +337,7 @@ entries:
       In addition to the UI interface, Cloudera Machine Learning (CML) provides an API to interact with the platform programmatically. This notebook 
       demonstrates how to work with the API.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/apiv2.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/apiv2.png?raw=true
     tags:
       - API
       - CML
@@ -351,7 +351,7 @@ entries:
     long_description: >-
       Automated data visualization and scikit learn pipeline creation using TPOT, Dask, and CML Workers in a Jupyter notebook.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/automl-with-tpot.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/automl-with-tpot.png?raw=true
     tags:
       - TPOT
       - AutoML
@@ -368,7 +368,7 @@ entries:
       This project builds a Streamlit application that demos four automatic summarization models, including extractive and abstractive techniques.
       It facilitates qualitative and quantitative comparisons of model summaries, as well as allowing users to summarize their own input text.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/summarize.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/summarize.png?raw=true
     tags:
       - Summarization
       - NLP
@@ -383,7 +383,7 @@ entries:
       This Jupyter Notebook project demonstrates how to train Word2Vec for a non-language  use case to learn embeddings for productcs on an e-commerce website. 
       Includes a demonstration of hyperparameter optimization and early stopping for the Word2Vec model.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/gensim-w2v.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/gensim-w2v.png?raw=true
     tags:
       - Embeddings
       - Gensim
@@ -399,7 +399,7 @@ entries:
       This project demonstrates how to run a TensorBoard dashboard as an application inside CML. To facilitate the demo, a minimal script is run to train a neural network
       on the MNIST digits data set while capturing logs that are visualized in the TensorBoard application.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/tensorboard.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/tensorboard.png?raw=true
     tags:
       - Tensorboard
       - Applications
@@ -416,7 +416,7 @@ entries:
       pre-trained Tensorflow model and provides guidance for working with video data.  The project also includes 
       a script that demonstrates how to perform larger-scale model inference.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/video-classification.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/video-classification.png?raw=true
     tags:
       - Video Classification
       - Action Recognition
@@ -436,7 +436,7 @@ entries:
       feature in combination with Evidently.ai's Data Drift, Numerical Target Drift, and Regression Performance reports 
       to monitor a simulated production model that predicts housing prices over time.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/continuous-model-monitoring.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/continuous-model-monitoring.png?raw=true
     tags:
       - Model Monitoring
       - Production ML
@@ -453,7 +453,7 @@ entries:
       This project provides a Jupyter Notebook that demonstrates a typical data science workflow for detecting fraudulent credit card 
       transactions by training a distributed XGBoost model in conjunction with Dask, a library for scaling Python applications, using the CML Workers API.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/dask-on-cml.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/dask-on-cml.png?raw=true
     tags:
       - Distributed Computing
       - XGBoost
@@ -469,7 +469,7 @@ entries:
       we intend to peel back the curtains on how an intelligent writing assistant might function — walking through the logical steps needed to automatically re-style a piece of text 
       (from informal-to-formal or subjective-to-neutral) while building up confidence in the model output.
     image_path: >-
-      https://raw.githubusercontent.com/bigdata-biz/Applied-ML-Prototypes/master/images/intelligent-writing-assistance.png
+      https://github.com/bigdata-biz/Applied-ML-Prototypes/blob/main/images/intelligent-writing-assistance.png?raw=true
     tags:
       - NLP
       - Text Style Transfer
